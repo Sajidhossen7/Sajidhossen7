@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#" style="color:#ff5733;"><marquee behavior="alternate">🙋‍♂️ MD. SAJID HOSSEN</marquee></a></h1>
+<h1 align="center"><a href="#" style="color:#ff5733;"><marquee behavior="alternate">🙋‍♂️, I am MD. SAJID HOSSEN</marquee></a></h1>
 <h3 align="center">"A COMPUTER SCIENCE STUDENT AT AIUB, PASSIONATE ABOUT CODING AND GAME STREAMING."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidhossen7&label=Profile%20views&color=0e75b6&style=flat" alt="sajidhossen7" /> </p>
