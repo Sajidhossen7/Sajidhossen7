@@ -38,8 +38,4 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajidhossen7&show_icons=true&locale=en&layout=compact" alt="sajidhossen7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajidhossen7&show_icons=true&locale=en" alt="sajidhossen7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajidhossen7&" alt="sajidhossen7" /></p>
